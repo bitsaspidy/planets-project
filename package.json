@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bitsaspidy/planets-project/issues"
   },
-  "homepage": "https://github.com/bitsaspidy/planets-project#readme"
+  "homepage": "https://github.com/bitsaspidy/planets-project#readme",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
 }
